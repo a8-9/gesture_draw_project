@@ -1,0 +1,10 @@
+__pycache__/
+build/
+dist/
+*.exe
+*.spec
+venv/
+.vscode/
+data/hand_dataset/
+data/dataset_final/
+data/*.task
